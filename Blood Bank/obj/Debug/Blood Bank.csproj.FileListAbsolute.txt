@@ -1,0 +1,25 @@
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Dashbord.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AddNewDonar.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.UpdateDonorDetails.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AllDonorDetails.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.SearchBloodDonor.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.SearchBloodDonorGroup.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockIncrease.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockDicrease.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockDetails.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DeleteDonor.resources
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\bin\Debug\itextsharp.dll
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\bin\Debug\itextsharp.xml
+C:\Users\ASUS\source\repos\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CopyComplete
